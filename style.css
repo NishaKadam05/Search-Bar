@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+.container form{
+    padding-left: 350px;
+    padding-top: 100px;
+}
+    
+
+form input{
+    width: 700px;
+    height: 40px;
+    font-size: 20px;
+}
+
+form i{
+    border: 5px solid gray;
+    width: 25px;
+    height: 20px;
+    background-color: gray;
+    padding-left:10px;
+}
+
+.frm{
+    border: 10px solid rgb(202, 200, 200);
+    background-color: gray;
+    width: 770px;
+}
+    
